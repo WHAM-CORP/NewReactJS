@@ -20,3 +20,10 @@
     background-color: black;
     color: white;
 }
+.datos{
+    color: burlywood;
+    text-decoration: none;
+}
+.datos:hover{
+    color: white;
+}
